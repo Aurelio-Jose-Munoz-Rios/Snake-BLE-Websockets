@@ -23,6 +23,7 @@ Core 1: WiFi/WebSocket + bucle de juego.
 
 <img width="3886" height="2375" alt="Untitled diagram-2025-10-30-230145" src="https://github.com/user-attachments/assets/f8808f49-d7a5-4183-8efc-735ee2011731" />
 
+[Diagrama mejor detalle](https://www.mermaidchart.com/app/projects/0542caf0-e896-42bc-b68c-5f48cefa6bfd/diagrams/23053415-8e8d-46c5-a64c-cd7e2fbb70e9/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiMjMwNTM0MTUtOGU4ZC00NmM1LWE2NGMtY2Q3ZTJmYmI3MGU5IiwiYWNjZXNzIjoiRWRpdCIsImlhdCI6MTc2MTg2NTcyNH0.s-A2ioB3Efc04KntoUcELk56ARWmQcSbYS-Q3Sc9O7I)
 ## Dependencias
 
 Arduino:
