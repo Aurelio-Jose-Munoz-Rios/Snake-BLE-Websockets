@@ -4,7 +4,7 @@ Implementación del juego Snake con control BLE (Flutter), ejecución en ESP32 y
 
 ## Arquitectura
 
-- Entrada: D‑Pad en Flutter → BLE (1 byte: {1..4}).
+- Entrada: D‑Pad en Flutter 
 - Lógica: ESP32 (C++), actualización discreta, serialización JSON.
 - Transporte: WebSocket TCP a host local.
 - Salida: Pygame (30 FPS).
