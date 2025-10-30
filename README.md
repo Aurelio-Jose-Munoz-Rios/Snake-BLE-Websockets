@@ -14,7 +14,7 @@ Core 1: WiFi/WebSocket + bucle de juego.
 
 ## Hardware
 
-- ESP32 DevKit (WROOM/WROVER), buzzer pasivo (GPIO 25), smartphone, PC, WiFi 2.4 GHz.
+- ESP32 DevKit, buzzer pasivo (GPIO 25), smartphone, PC, WiFi 2.4 GHz.
 
 ## Dependencias
 
