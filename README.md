@@ -15,6 +15,13 @@ Core 1: WiFi/WebSocket + bucle de juego.
 ## Hardware
 
 - ESP32 DevKit, buzzer pasivo (GPIO 25), smartphone, PC, WiFi 2.4 GHz.
+## Diagrama de Bloques
+
+<img width="2758" height="1054" alt="Tablero en blanco (5)" src="https://github.com/user-attachments/assets/cf73cff8-0deb-4c39-9f3d-a7f0dff9ee6a" />
+
+## Diagama de Flujo
+
+<img width="3886" height="2375" alt="Untitled diagram-2025-10-30-230145" src="https://github.com/user-attachments/assets/f8808f49-d7a5-4183-8efc-735ee2011731" />
 
 ## Dependencias
 
