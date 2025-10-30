@@ -19,7 +19,7 @@ Core 1: WiFi/WebSocket + bucle de juego.
 ## Dependencias
 
 Arduino:
-- Core ESP32 (≥2.0.14), WebSockets (Links2004).  
+- Core ESP32, WebSockets.  
 - Partición: Huge APP (3MB No OTA).
 
 Flutter:
