@@ -63,16 +63,6 @@ Tres temas: intro (idle), in‑game (loop), game‑over (one‑shot). Reproducci
 - Visualización: 30 FPS estable.  
 - Memoria: ~200 KB RAM; ~1.2 MB flash.
 
-## Diagnóstico rápido
-
-- Sin conexión WS: validar WS_HOST, firewall 8765, misma subred.  
-- “Sketch too big”: activar “Huge APP”.  
-- BLE sin descubrimiento: permisos y ubicación activos; reiniciar BT.  
-- Audio irregular: buzzer pasivo y GND; prioridad de tarea.
-
-## Roadmap
-
-Multijugador, obstáculos, power‑ups, skins, salida OLED/ILI9341.
 
 ## Licencia
 
